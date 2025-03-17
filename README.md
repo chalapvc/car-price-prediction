@@ -23,7 +23,7 @@ This project utilizes a dataset of 426K used cars, featuring key attributes such
 
 ## Files in the Repository
 
-- `pricepredictor.ipynb`: The Jupyter Notebook containing the complete analysis, data preparation, modeling, and evaluation process.
+- `car_price_predictor.ipynb`: The Jupyter Notebook containing the complete analysis, data preparation, modeling, and evaluation process.
 - `vehicles.csv`: The dataset used for training and testing the machine learning models.
 
 ## Steps and Methodology
